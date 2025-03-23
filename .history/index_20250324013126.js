@@ -1,4 +1,4 @@
-function createEmployeeRecord([firstName, familyName, title, payPerHour]) {
+unction createEmployeeRecord([firstName, familyName, title, payPerHour]) {
     return {
       firstName,
       familyName,
